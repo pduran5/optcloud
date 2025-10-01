@@ -12,5 +12,11 @@ Esto esta en **negrita**
 ```bash
 sudo rm -rf .
 ```
+```c
+int main(){
+    return 1;
+}
+```
+
 Esto es un `codigo`
 
